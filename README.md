@@ -1,6 +1,14 @@
-# Convert Content Formats
+# Convert To Web Formats
 
 Using a next-gen image format like ```.webp``` can greatly reduce image file size, which leads to faster load times, which leads to better Search Engine Optimization performance (ie higher ranking on Google searches). You can use the ```convertImagesToNextGenFormat.js``` script to convert your images to ```.webp``` format.
+
+## Installation
+
+Install convertToWebFormats as a dev dependency
+
+```
+npm i -D harryli0088/convertToWebFormats
+```
 
 ## Valid image extensions
 
