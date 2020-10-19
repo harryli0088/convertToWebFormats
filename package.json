@@ -2,14 +2,14 @@
   "name": "converttowebformats",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "https://github.com/harryli0088",
   "license": "MIT",
   "bin": {
-    "hello": "./index.js"
+    "converttowebformats": "./bin/converttowebformats.js"
   },
   "dependencies": {
     "sharp": "^0.26.2"
